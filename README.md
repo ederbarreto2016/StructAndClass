@@ -20,7 +20,7 @@ StructAndClass
       ├── Struct
       │    ├── UserProfile.swift      (Model - struct) 
       │    ├── MyApp.swift            (App principal - struct)
-      │    └── ProfileView.swift           (View - struct)
+      │    └── ProfileView.swift      (View - struct)
       ├── Class
       │    ├── UserService.swift      (Service - class)
       │    └── ProfileViewModel.swift (ViewModel - class)
